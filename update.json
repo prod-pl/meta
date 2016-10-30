@@ -2,7 +2,7 @@
     "version": "1.1.0",
     "minContainerVersion": "1.0",
     "url": {
-      "url": "main.jsbundle",
+      "url": "https://raw.githubusercontent.com/prod-pl/meta/master/main.jsbundle",
       "isRelative": true
     }
 }
